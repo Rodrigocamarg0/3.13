@@ -1,4 +1,6 @@
-//3.13
+// Trabalho 1 - Prog2 - 3.13
+// Rodrigo Nunes Camargo
+// Arthur Lima
 
 #include <iostream>
 #include <string>
@@ -56,11 +58,11 @@ Invoice nota1("001","Teclado Gamer",2,150);
 
 cout << "Identificador:" << nota1.getIdentificador() << endl;
 
-cout << "Descriçao:" << nota1.getDescricao() << endl;
+cout << "DescriÃ§ao:" << nota1.getDescricao() << endl;
 
 cout << "Quantidade:" << nota1.getQuantidade() << endl;
 
-cout << "Preço:" << nota1.getPreco() << endl;
+cout << "PreÃ§o:" << nota1.getPreco() << endl;
 
 cout << "Valor da nota:" << nota1.getValorNota() << endl;
 
@@ -72,11 +74,11 @@ Invoice nota2("002","Notebook Dell",3,3500);
 
 cout << "Identificador:" << nota2.getIdentificador() << endl;
 
-cout << "Descriçao:" << nota2.getDescricao() << endl;
+cout << "DescriÃ§ao:" << nota2.getDescricao() << endl;
 
 cout << "Quantidade:" << nota2.getQuantidade() << endl;
 
-cout << "Preço:" << nota2.getPreco() << endl;
+cout << "PreÃ§o:" << nota2.getPreco() << endl;
 
 cout << "Valor da nota:" << nota2.getValorNota() << endl;
 
