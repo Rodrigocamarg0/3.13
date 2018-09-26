@@ -21,15 +21,15 @@ double pi = 3.14159;
   cout << "Informe o raio! (m)\n";
    cin >> r;
    
-   cout << " Diâmetro:  ";
+   cout << " DiÃ¢metro:  ";
    D = r*2;
    cout << D << " m" << endl;
 
-  cout << " Área:  ";
+  cout << " Ãrea:  ";
    A = pow(r,2)*pi;
-   cout << A << " m²" << endl;
+   cout << A << " m^2" << endl;
    
-  cout << " Circunferência:  ";
+  cout << " CircunferÄ™ncia:  ";
    C = (2*pi)*r;
    cout << C << " m";
 
